@@ -38,7 +38,8 @@ The following models were used on the testing set:
 6. Tuned XGBoost
 7. Gaussian Naive Bayes
 <p align="center">
-   <img src="images/summary_statistics.png" width = '620' height = '275'/> 
+   <img width="653" alt="summary_statistics" src="https://user-images.githubusercontent.com/113871039/202745546-a2d419dc-872a-42b2-bbd3-74d8f3b81aa4.png">
+
 <p/>
 
 ## Evaluation
