@@ -58,7 +58,8 @@ All in all, one can say that for simple problems have simple solutions.
 
 #### Correlation Coefficients with Values of 0.7 or higher:
 <p align="center">
-   <img src="images/multicollinearity.png" width = '600' height = '150'/> 
+  <img width="432" alt="multicollinearity" src="https://user-images.githubusercontent.com/113871039/202745802-7c749d59-9e2d-4a69-b8ad-19496cf68587.png">
+
 </p>
 
 ### Confusion Matrix
